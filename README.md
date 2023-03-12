@@ -7,7 +7,7 @@ To use the script:
 1. Download the reshade-steamdeck.sh file to your desired directory.
 2. Make the file executable by running chmod +x reshade-steamdeck.sh.
 3. Run ./reshade-steamdeck.sh in the same directory as the file in the terminal.
-4. After running the script, Reshade will be enabled on Steam Deck with an overlay (goverlay... set the hotkeys as needed.), and you can download all the shaders from the inside goverlay with no configuration needed (click sync). You can also use Basalt for additional effects.
+4. After running the script, Reshade will be enabled on Steam Deck with an overlay (goverlay... set the hotkeys as needed.), and you can download all the shaders from the inside goverlay with no configuration needed (click sync). You can also use vkBasalt for additional effects.
 
 *Note, not all shaders work, but most do. Here's a great resource to make sure your game is playable.
 https://github.com/gripped/vkBasalt-working-reshade-shaders
