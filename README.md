@@ -15,8 +15,6 @@ For more information on how to configure the overlay and effects, you can refer 
 
 Here are some relevant links:
 
-Programs that the script installs and works with on Steam Deck (likely to work on other Arch distros with Pacman enabled):
-
 Chaotic AUR: https://aur.chaotic.cx/
 vkBasalt: https://github.com/DadSchoorse/vkBasalt
 goverlay: https://github.com/benjamimgois/goverlay and all needed dependencies
