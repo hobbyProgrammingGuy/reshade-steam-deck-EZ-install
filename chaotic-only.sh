@@ -37,3 +37,4 @@ echo "Success: Updated pacman repository successfully."
 else
 
 echo "Success: Already Updated."
+fi
