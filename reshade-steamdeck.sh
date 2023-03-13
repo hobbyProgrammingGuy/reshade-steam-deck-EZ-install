@@ -40,9 +40,9 @@ else
 echo "Success: Already Updated."
 
 fi
-#Install vkbasalt
+#Install vkbasalt and make compatible with 32 bit too! New change.
 
-if sudo pacman -S --noconfirm vkbasalt; then
+if sudo pacman -S --noconfirm vkbasalt lib32-vulkan-icd-loader lib32-vkbasalt; then
 
 echo "Success: Installed vkbasalt successfully."
 
