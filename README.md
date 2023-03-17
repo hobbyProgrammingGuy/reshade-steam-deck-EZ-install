@@ -24,3 +24,9 @@ Hope you enjoy!
 I just made it v1.0 release, so nobody is downloading 1.1.
 
 The reason I opted to just change the file instead of do a release is because people don't know how to do the releases and I already posted the link to Reddit.
+
+Here's the reddit:
+
+https://www.reddit.com/r/SteamDeckTricks/comments/11pt1p2/reshade_steam_deck_gui_ez_install_script/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=1&utm_content=share_button
+
+There's also a video I uploaded to mega that shows exactly how to do this.
