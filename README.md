@@ -32,3 +32,7 @@ https://www.reddit.com/r/SteamDeckTricks/comments/11pt1p2/reshade_steam_deck_gui
 There's also a video I uploaded to mega on this reddit post that shows exactly how to do this.
 
 I'm OwnSlip.
+
+Here's the direct link to the Reddit post for the video:
+https://www.reddit.com/r/SteamDeckTricks/comments/11pt1p2/reshade_steam_deck_gui_ez_install_script/jcizhzv?utm_medium=android_app&utm_source=share&context=3
+
