@@ -20,3 +20,7 @@ vkBasalt: https://github.com/DadSchoorse/vkBasalt
 goverlay: https://github.com/benjamimgois/goverlay and all needed dependencies
 
 Hope you enjoy!
+
+I just made it v1.0 release, so nobody is downloading 1.1.
+
+The reason I opted to just change the file instead of do a release is because people don't know how to do the releases and I already posted the link to Reddit.
