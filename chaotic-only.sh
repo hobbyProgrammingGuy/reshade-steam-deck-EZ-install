@@ -17,9 +17,6 @@ sudo pacman-key --populate archlinux
 
 #Debug (before or after?)
 
-grep -qxF '[chaotic-aur]
-Include = /etc/pacman.d/chaotic-mirrorlist' /etc/pacman.conf || echo -e '\n[chaotic-aur]\nInclude = /etc/pacman.d/chaotic-mirrorlist\n' | sudo tee -a /etc/pacman.conf
-
 #First, install the primary key - it can then be used to install our keyring and mirrorlist.
 sudo pacman-key --recv-key FBA220DFC880C036 --keyserver keyserver.ubuntu.com
 sudo pacman-key --lsign-key FBA220DFC880C036
